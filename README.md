@@ -10,6 +10,7 @@ Open Source Contributions
 ### Recent Tasks
 
 [TEE Test Coverage for Phala Network](https://github.com/elizaOS/eliza/issues/1324): ongoing
+
 [Multi-Agent Arch](https://github.com/pydantic/pydantic-ai/issues/120): this discussion blossomed into this https://github.com/pydantic/pydantic-ai/pull/541
 
 
