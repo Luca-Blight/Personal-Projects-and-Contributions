@@ -5,6 +5,7 @@ Current Project
 
 
 [Lucidity-Crypto.xyz](https://lucidity-crypto.xyz/)
+
 Agentic Crypto Search Platform
 
 Open Source Contributions
