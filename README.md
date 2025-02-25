@@ -1,15 +1,14 @@
 # Personal-Projects-and-Contributions
 
 
-Personal Projects
+Current Project
 
 [Lucidity-Crypto.xyz](https://lucidity-crypto.xyz/): Agentic Crypto Search Platform
 
 Open Source Contributions
 
-### Recent Tasks
+### Recent
 
-[TEE Test Coverage for Phala Network](https://github.com/elizaOS/eliza/issues/1324): ongoing
 
 [Multi-Agent Arch](https://github.com/pydantic/pydantic-ai/issues/120): this discussion blossomed into this https://github.com/pydantic/pydantic-ai/pull/541
 
