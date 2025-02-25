@@ -8,7 +8,7 @@ Current Project
 
 Agentic Crypto Search Platform
 
-Open Source Contributions
+# Open Source Contributions
 
 ### Recent
 
