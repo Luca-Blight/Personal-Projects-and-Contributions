@@ -1,12 +1,12 @@
 # Personal-Projects-and-Contributions
 
 
-Current Project
+### Current Project
 
+Agentic Crypto Search Platform
 
 [Lucidity-Crypto.xyz](https://lucidity-crypto.xyz/)
 
-Agentic Crypto Search Platform
 
 # Open Source Contributions
 
